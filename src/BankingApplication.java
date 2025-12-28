@@ -53,7 +53,7 @@ class BankAccount{
             System.out.println("AMOUNT WITHDRAWN :"+Math.abs(lastTransaction));// Math.abs is a method that covnert the negative value to the positive value
         }
         else {
-            System.out.println("NO TRANSACTION IS OCCURED RECENTLY !! ");
+            System.out.println("NO TRANSACTION IS OCCUREDD RECENTLY !! ");
         }
      }
 
